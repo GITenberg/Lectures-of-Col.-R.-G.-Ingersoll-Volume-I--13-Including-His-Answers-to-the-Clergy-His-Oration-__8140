@@ -1,5 +1,8 @@
 _repo: Lectures-of-Col.-R.-G.-Ingersoll-Volume-I--13-Including-His-Answers-to-the-Clergy-His-Oration-__8140
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ingersoll, Robert Green
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2662
     wikipedia: http://en.wikipedia.org/wiki/Robert_G._Ingersoll
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8140#Lectures-of-Col.-R.-G.-Ingersoll-Volume-I--13-Including-His-Answers-to-the-Clergy-His-Oration-_
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
 identifiers:
